@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mental Health Agent",
+    "repo": "kashifkhan117401-bit/Mental-Health-agent",
+    "description": "AI agent for mental health access and hospital decision support, tackling delayed emergency counseling response and access",
+    "tags": ["AI Agent", "JavaScript", "Healthcare"]
+  },
+  {
+    "name": "Object Detection & Tracking",
+    "repo": "kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking",
+    "description": "Real-time object detection and tracking with YOLOv8 + SORT on live webcam or video, with persistent track IDs",
+    "tags": ["YOLOv8", "Computer Vision", "Python"]
+  },
+  {
+    "name": "FAQ Chatbot",
+    "repo": "kashifkhan117401-bit/CodeAlpha_faqchatbot",
+    "description": "FAQ chatbot matching user questions to the closest FAQ using NLTK preprocessing and TF-IDF + cosine similarity",
+    "tags": ["NLP", "Flask", "Python"]
+  },
+  {
+    "name": "Language Translation Tool",
+    "repo": "kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool",
+    "description": "Desktop translation application built with Tkinter and the Google Translate API",
+    "tags": ["Tkinter", "Translation", "Python"]
+  },
+  {
+    "name": "Titanic Survival Analysis",
+    "repo": "kashifkhan117401-bit/Titanic_Analysis_project",
+    "description": "End-to-end data analytics and interactive desktop app exploring passenger survival dynamics from the Titanic dataset",
+    "tags": ["Data Analysis", "Jupyter", "Python"]
+  },
+  {
+    "name": "Bank Management System",
+    "repo": "kashifkhan117401-bit/Bank-Management-system",
+    "description": "SQL-based DBMS modeling core banking operations: customer records, accounts, loans, transactions, and branches",
+    "tags": ["SQL", "Database", "SQL Server"]
+  }
+]
