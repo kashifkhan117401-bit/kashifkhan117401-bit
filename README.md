@@ -26,21 +26,8 @@
   <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=kashifkhan117401-bit&layout=compact&langs_count=10&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
-</div>
+</div
 
-<!-- ===== GITHUB TROPHIES ===== -->
-<br/>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kashifkhan117401-bit&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kashifkhan117401-bit&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</picture>
-
-</div>
 
 <!-- ===== TECH STACK SVG BADGES ===== -->
 <br/>
