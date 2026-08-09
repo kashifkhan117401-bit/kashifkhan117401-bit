@@ -10,7 +10,7 @@
 <div align="center">
 
 ### <p align="center" height="300px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Kashif+Khan;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Front+End+Developer;%E2%9A%9B%EF%B8%8F+React.js+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Deep+Learning;%E2%9A%A1+Studying+Computer+Science" alt="Hey There! I am Kashif Hafeez, AI Developer, React.js Developer, Knowledgeable in AI and Deep Learning, Studying Artificial Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Kashif+Hafeez;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+AI+Developer;%E2%9A%9B%EF%B8%8F+React.js+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Deep+Learning;%E2%9A%A1+Studying+Artificial+Intelligence" alt="Hey There! I am Kashif Hafeez, AI Developer, React.js Developer, Knowledgeable in AI and Deep Learning, Studying Artificial Intelligence" />
 </p>
 
 
