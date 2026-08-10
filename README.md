@@ -100,79 +100,109 @@
 
 <div align="center">
 
-<a href="https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Jarvis Desktop Voice Assistant" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/Mental-Health-agent">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Mental Health Agent" />
-</picture>
-</a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha FAQ Chatbot" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Language Translation Tool" />
-</picture>
-</a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Object Detection and Tracking" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/agency-agents">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Agency Agents" />
-</picture>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Jarvis Desktop Voice Assistant](https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant)
+Desktop voice assistant application built for hands-free control and automation.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Mental Health Agent](https://github.com/kashifkhan117401-bit/Mental-Health-agent)
+AI-powered agent designed to support mental health conversations and check-ins.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Mental-Health-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [CodeAlpha FAQ Chatbot](https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot)
+Conversational chatbot built to answer frequently asked questions automatically.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [CodeAlpha Language Translation Tool](https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool)
+Tool that translates text across multiple languages in real time.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [CodeAlpha Object Detection and Tracking](https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking)
+Computer vision system for detecting and tracking objects in video streams.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Agency Agents](https://github.com/kashifkhan117401-bit/agency-agents)
+Collection of agent-based automation tools built for orchestrating multi-step tasks.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/agency-agents)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- ===== RECENT PROJECTS ===== -->
 <br/>
 
 ## 🆕 Recent Projects
 
 <div align="center">
 
-<a href="https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Campus Network Design Simulation" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/Bank-Management-system">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Bank Management System" />
-</picture>
-</a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Password Strength Analyzer" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/Titanic_Analysis_project">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Titanic Analysis Project" />
-</picture>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 [Campus Network Design Simulation](https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation)
+Simulated design and configuration of a full campus network infrastructure.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [Bank Management System](https://github.com/kashifkhan117401-bit/Bank-Management-system)
+System for managing customer accounts, transactions, and bank records.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Bank-Management-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [Password Strength Analyzer](https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer)
+Tool that evaluates password strength and flags common weaknesses.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 [Titanic Analysis Project](https://github.com/kashifkhan117401-bit/Titanic_Analysis_project)
+Exploratory data analysis and modeling on the classic Titanic dataset.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Titanic_Analysis_project)
+
+</td>
+</tr>
+</table>
 
 </div>
 
