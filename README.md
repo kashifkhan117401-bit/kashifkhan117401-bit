@@ -93,29 +93,117 @@
 
 </div>
 
-<!-- ===== PINNED / POPULAR PROJECTS ===== -->
-<br/>
-
-## 📌 Featured Projects
+<!-- ========================================================================= -->
+<!-- 🚀 FEATURED & RECENT PROJECTS SHOWCASE -->
+<!-- Designer: Antigravity AI | Theme: Neon Cyber & Slate Dark/Light Compatible -->
+<!-- ========================================================================= -->
 
 <div align="center">
+
+## 🌟 Featured Projects
+
+*Highlighting key innovations in Autonomous AI Agents, Computer Vision, Voice Assistants & NLP*
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 📌 FEATURED PROJECTS GRID (2-COLUMN CARDS TABLE) -->
+<!-- ========================================================================= -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Jarvis Desktop Voice Assistant](https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant)
-Desktop voice assistant application built for hands-free control and automation.
+> *Intelligent voice-controlled desktop assistant powered by AI.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant)
+- ⚡ Speech recognition & natural language command processing
+- 🛠️ Automates system operations, web search, and app launching
+- 🎙️ Custom TTS voice response with real-time audio handling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voice%20AI-007ACC?style=flat-square&logo=googleassistant&logoColor=white" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=0891B2&labelColor=FFFFFF" alt="Explore Jarvis Voice Assistant" />
+</picture>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 [Mental Health Agent](https://github.com/kashifkhan117401-bit/Mental-Health-agent)
-AI-powered agent designed to support mental health conversations and check-ins.
+> *Empathetic AI conversational agent for mental wellness support.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Mental-Health-agent)
+- 💬 Context-aware dialogue flow with empathetic sentiment analysis
+- 🧘 Guided wellness exercises, stress tracking & crisis detection
+- 🔗 Built with modern LLM orchestration and NLP frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=probot&logoColor=white" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Mental-Health-agent">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=FFFFFF" alt="Explore Mental Health Agent" />
+</picture>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [Object Detection & Tracking](https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking)
+> *Real-time computer vision system for multi-object tracking.*
+
+- 🎯 High-fps real-time object identification using deep learning
+- 📹 Multi-object trajectory tracking across video frame sequences
+- 📊 Bounding box rendering with classification confidence scores
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=0891B2&labelColor=FFFFFF" alt="Explore Object Detection" />
+</picture>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Agency Agents](https://github.com/kashifkhan117401-bit/agency-agents)
+> *Autonomous multi-agent orchestration framework for AI workflows.*
+
+- 🌐 Collaborative AI agent swarm for task decomposition & execution
+- ⚙️ Modular prompt engineering and stateful agent memory
+- 🚀 Scales execution across complex multi-step automation tasks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Autonomous%20AI-10B981?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F61?style=flat-square&logo=huggingface&logoColor=white" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/agency-agents">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=FFFFFF" alt="Explore Agency Agents" />
+</picture>
+</a>
 
 </td>
 </tr>
@@ -123,64 +211,149 @@ AI-powered agent designed to support mental health conversations and check-ins.
 <td width="50%" valign="top">
 
 ### 💬 [CodeAlpha FAQ Chatbot](https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot)
-Conversational chatbot built to answer frequently asked questions automatically.
+> *Context-aware FAQ chatbot engine for automated support.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot)
+- 🔍 Fast intent matching & semantic similarity query resolution
+- 📈 Interactive Web UI for seamless user chat experience
+- ⚡ Efficient dataset parsing and customizable response logic
 
-</td>
-<td width="50%" valign="top">
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-### 🌐 [CodeAlpha Language Translation Tool](https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool)
-Tool that translates text across multiple languages in real time.
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [CodeAlpha Object Detection and Tracking](https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking)
-Computer vision system for detecting and tracking objects in video streams.
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking)
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=0891B2&labelColor=FFFFFF" alt="Explore FAQ Chatbot" />
+</picture>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Agency Agents](https://github.com/kashifkhan117401-bit/agency-agents)
-Collection of agent-based automation tools built for orchestrating multi-step tasks.
+### 🌐 [Language Translation Tool](https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool)
+> *Multi-lingual neural text translator with auto language detection.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/agency-agents)
+- 🌍 Real-time translation across 50+ international languages
+- 🔤 Smart text preprocessing & accurate dialect handling
+- 💻 Clean user interface with copy-to-clipboard functionality
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Translate-008080?style=flat-square&logo=googletranslate&logoColor=white" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/Explore%20Repository-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=FFFFFF" alt="Explore Translation Tool" />
+</picture>
+</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-## 🆕 Recent Projects
+<!-- ========================================================================= -->
+<!-- 🎨 VISUAL GITHUB CARD SHOWN IN CAROUSEL / GRID -->
+<!-- ========================================================================= -->
 
-<div align="center">
+<details>
+<summary><b>🖼️ Click to View GitHub Repository Pin Cards</b></summary>
+<br/>
+
+<a href="https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Jarvis Desktop Voice Assistant" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/Mental-Health-agent">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Mental Health Agent" />
+</picture>
+</a>
+<br/>
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Object Detection and Tracking" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/agency-agents">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Agency Agents" />
+</picture>
+</a>
+</details>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 🆕 RECENT PROJECTS SECTION -->
+<!-- ========================================================================= -->
+
+## 🚀 Recent Projects
+
+*Systems Engineering, Networks, Cybersecurity & Data Science*
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 [Campus Network Design Simulation](https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation)
-Simulated design and configuration of a full campus network infrastructure.
+### 📡 [Campus Network Design Simulation](https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation)
+> *Enterprise campus network topology & security architecture.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation)
+- 🏗️ Multi-building VLAN segmentation, inter-VLAN routing & trunking
+- 🔐 ACL security rules, DHCP server config & OSPF dynamic routing
+- 📊 Tested and validated using Cisco Packet Tracer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1976D2?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-009688?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSPF%20%2F%20VLAN-0A101F?style=flat-square" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Network%20Sim-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/View%20Network%20Sim-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=0891B2&labelColor=FFFFFF" alt="View Campus Network Simulation" />
+</picture>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏦 [Bank Management System](https://github.com/kashifkhan117401-bit/Bank-Management-system)
-System for managing customer accounts, transactions, and bank records.
+> *Robust object-oriented C++ software for banking transactions.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Bank-Management-system)
+- 💳 Account creation, balance inquiries, deposit & withdrawal processing
+- 🔒 Encapsulated security with user validation & transaction logs
+- 📁 Binary file handling for session persistent data storage
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-6C3EF4?style=flat-square" />
+  <img src="https://img.shields.io/badge/File%20IO-4CAF50?style=flat-square" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Bank-Management-system">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Banking%20Sys-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/View%20Banking%20Sys-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=FFFFFF" alt="View Bank Management System" />
+</picture>
+</a>
 
 </td>
 </tr>
@@ -188,23 +361,55 @@ System for managing customer accounts, transactions, and bank records.
 <td width="50%" valign="top">
 
 ### 🔐 [Password Strength Analyzer](https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer)
-Tool that evaluates password strength and flags common weaknesses.
+> *Security utility measuring password entropy & vulnerability risk.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer)
+- 🛡️ Entropy computation based on character set variety & length
+- ⚠️ Detects common dictionary words, repeated patterns & weak sequences
+- 💡 Real-time actionable tips to generate ultra-secure passwords
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-E53E3E?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regex-000000?style=flat-square" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Security%20Tool-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/View%20Security%20Tool-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=0891B2&labelColor=FFFFFF" alt="View Password Strength Analyzer" />
+</picture>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚢 [Titanic Analysis Project](https://github.com/kashifkhan117401-bit/Titanic_Analysis_project)
-Exploratory data analysis and modeling on the classic Titanic dataset.
+> *Exploratory data analysis & survival prediction machine learning model.*
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifkhan117401-bit/Titanic_Analysis_project)
+- 📊 Data cleaning, feature engineering, and statistical correlation matrix
+- 🤖 ML classification algorithms comparing Decision Trees & Random Forest
+- 📈 Visual insights generated using Seaborn and Matplotlib graphs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-20B2AA?style=flat-square" />
+</p>
+
+<a href="https://github.com/kashifkhan117401-bit/Titanic_Analysis_project">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View%20Data%20Project-%E2%9F%B6-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/View%20Data%20Project-%E2%9F%B6-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=FFFFFF" alt="View Titanic Analysis Project" />
+</picture>
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
