@@ -7,6 +7,8 @@
   <img alt="Kashif Hafeez" src="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/main/light.svg">
 </picture>
 
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
+
 <div align="center">
 
 ### <p align="center" height="300px">
@@ -408,10 +410,6 @@
 </table>
 
 </div>
-
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
-
-
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
