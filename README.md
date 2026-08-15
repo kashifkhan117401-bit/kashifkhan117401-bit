@@ -7,7 +7,12 @@
   <img alt="Kashif Hafeez" src="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/main/light.svg">
 </picture>
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
 
 <div align="center">
 
