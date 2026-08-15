@@ -10,8 +10,6 @@
 <div align="center">
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-⬇️-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kashifhafeez117401@gmail.com)
-
 </div>
 
 
