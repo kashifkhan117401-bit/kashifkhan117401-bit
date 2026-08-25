@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-📥-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/2cafe1bd70825d4f9c0ec9e403599ecabcb803e6/Kashif_Hafeez_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-📥-2ea44f?style=for-the-badge)](https://github.com/kashifkhan117401-bit/kashifkhan117401-bit/blob/4a92de87427587507bcf89bad877a8e59a246e78/Kashif_Hafeez_CV.pdf)
 </div>
 
 
